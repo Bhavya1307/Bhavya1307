@@ -1,6 +1,12 @@
 # Bhavya Patel
 
-A student of web development.
+Current student at Humber College.
+
+Persuing Web Development.
+
+Contact me at [Email](bdp9834@gmail.com)
+
+Connect with me on [Instagram](https://www.instagram.com/_.itz.bhavya/?hl=en)
 
 <!--
 **Bhavya1307/Bhavya1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
