@@ -1,4 +1,6 @@
-### Hi there 👋
+# Bhavya Patel
+
+A student of web development.
 
 <!--
 **Bhavya1307/Bhavya1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
