@@ -8,7 +8,7 @@ Current student at **Humber College**.
 
 Persuing Web Development.
 
-- 💬 Contact me at (bdp9834@gmail.com)
+- 💬 Contact me at bdp9834@gmail.com
 
 - 😄 Connect with me on [Instagram](https://www.instagram.com/_.itz.bhavya/?hl=en)
 
